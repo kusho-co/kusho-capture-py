@@ -1,9 +1,0 @@
-setup.py
-kusho_record_replay.egg-info/PKG-INFO
-kusho_record_replay.egg-info/SOURCES.txt
-kusho_record_replay.egg-info/dependency_links.txt
-kusho_record_replay.egg-info/requires.txt
-kusho_record_replay.egg-info/top_level.txt
-sdk/__init__.py
-sdk/collector.py
-sdk/middleware.py
